@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a9e903e.css",
-    "main.js": "/static/js/main.fb7266be.js",
+    "main.css": "/static/css/main.65a26daa.css",
+    "main.js": "/static/js/main.83a8332e.js",
     "static/js/787.120f3933.chunk.js": "/static/js/787.120f3933.chunk.js",
     "static/media/bollingeneth.png": "/static/media/bollingeneth.040a5dc9484f15644015.png",
     "static/media/BollingenLogo.jpg": "/static/media/BollingenLogo.db27a513b2f55dbd8ead.jpg",
     "static/media/BharatPeQR.jpeg": "/static/media/BharatPeQR.33214362c6becc374e54.jpeg",
     "index.html": "/index.html",
-    "main.7a9e903e.css.map": "/static/css/main.7a9e903e.css.map",
-    "main.fb7266be.js.map": "/static/js/main.fb7266be.js.map",
+    "main.65a26daa.css.map": "/static/css/main.65a26daa.css.map",
+    "main.83a8332e.js.map": "/static/js/main.83a8332e.js.map",
     "787.120f3933.chunk.js.map": "/static/js/787.120f3933.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a9e903e.css",
-    "static/js/main.fb7266be.js"
+    "static/css/main.65a26daa.css",
+    "static/js/main.83a8332e.js"
   ]
 }
